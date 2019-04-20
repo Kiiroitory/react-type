@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+# ビルドフォルダは管理しない
+built/
+dist/*
+# index.htmlは必要だから管理する
+!dist/index.html
